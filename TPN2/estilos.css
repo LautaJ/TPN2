@@ -1,0 +1,19 @@
+ body {
+ 		background-color:#666;
+ 		background-image:url(fondob.png);
+ 		background-position:center top;
+ 		background-repeat:no-repeat;
+ 		background-attachment:fixed;
+ 	}
+h1{  
+color:#000000;  
+font-family:times new roman;  
+font-size:25px;  
+text-align:center;  
+text-decoration:underline; 
+} 
+p{  
+color:#000000;  
+font-family:verdana;  
+text-align:justify; 
+}
